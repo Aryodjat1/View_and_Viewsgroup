@@ -7,7 +7,7 @@ Learn View And Viewgroups
 
 # Page
 
-![image](hhttps://github.com/Aryodjat1/View_and_Viewsgroup/blob/master/Screenshoot/page_1.png)
-![image](hhttps://github.com/Aryodjat1/View_and_Viewsgroup/blob/master/Screenshoot/page_1.2.png)
+![image](https://github.com/Aryodjat1/View_and_Viewsgroup/blob/cf7af1d110772c74bf8b17a7d8519261c634185a/Screenshoot/page_1.png)
+![image](https://github.com/Aryodjat1/View_and_Viewsgroup/blob/cf7af1d110772c74bf8b17a7d8519261c634185a/Screenshoot/page_1.2.png)
 
 ![version](https://img.shields.io/badge/Thank%20You-brightgreen)
