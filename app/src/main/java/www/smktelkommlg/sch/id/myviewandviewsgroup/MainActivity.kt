@@ -2,7 +2,7 @@ package www.smktelkommlg.sch.id.myviewandviewsgroup
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.dicoding.picodiploma.myviewandviews.R
+import www.smktelkommlg.sch.id.myviewandviewsgroup.R
 
 class MainActivity : AppCompatActivity() {
 
